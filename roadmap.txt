@@ -1,1 +1,1 @@
-learn git and github then upload projects.
+learn git and github then make Repositories and upload projects.
